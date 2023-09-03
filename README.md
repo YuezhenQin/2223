@@ -1,2 +1,2 @@
 # MSc-Computer-Science
-Exams, MSc Computer Science, University of Warwick
+`Exams`, MSc Computer Science, University of Warwick
